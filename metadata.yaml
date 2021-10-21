@@ -1,11 +1,16 @@
 _repo: A-guide-book-of-art-architecture-and-historic-interests-in-Pennsylvania_66410
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66410-h/images/cover.jpg
 creator:
   editor:
     agent_name: Archambault, A. Margaretta
     gutenberg_agent_id: '53798'
     url: http://www.gutenberg.org/2009/agents/53798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66410#A-guide-book-of-art-architecture-and-historic-interests-in-Pennsylvania
 gutenberg_issued: '2021-09-28'
 identifiers:
   gutenberg: '66410'
